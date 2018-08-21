@@ -16,8 +16,6 @@ $ git clone https://github.com/eko/docker-symfony.git
 
 Next, put your Symfony application into `symfony` folder and do not forget to add `symfony.dev` in your `/etc/hosts` file.
 
-Make sure you adjust `database_host` in `parameters.yml` to the database container alias "db"
-
 Then, run:
 
 ```bash
